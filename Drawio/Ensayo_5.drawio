@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T15:32:01.445Z" agent="5.0 (X11)" etag="n9Ip1a6-3cRS6kPqGD2p" version="13.9.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-05T15:37:42.402Z" agent="5.0 (X11)" etag="S1C6aFphZeeXz8TxHonI" version="13.9.0" type="github" pages="2">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="868" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -210,6 +210,15 @@
         </mxCell>
         <mxCell id="oSWAZ3F7YHGu-LkdwdIY-31" value="Analizador Serial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="b5hKjw0j4IzoJnd8OqHn-1">
           <mxGeometry x="434.99999999999994" y="540" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oSWAZ3F7YHGu-LkdwdIY-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="b5hKjw0j4IzoJnd8OqHn-1">
+          <mxGeometry x="390" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oSWAZ3F7YHGu-LkdwdIY-36" value="Ie5_a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="b5hKjw0j4IzoJnd8OqHn-1" source="oSWAZ3F7YHGu-LkdwdIY-35" target="oSWAZ3F7YHGu-LkdwdIY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oSWAZ3F7YHGu-LkdwdIY-35" value="&lt;div&gt;Fuente 1&lt;/div&gt;&lt;div&gt;12 Volts&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="b5hKjw0j4IzoJnd8OqHn-1">
+          <mxGeometry x="355" y="69.99999999999999" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
