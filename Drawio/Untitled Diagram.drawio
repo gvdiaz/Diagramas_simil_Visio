@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T21:09:35.427Z" agent="5.0 (Windows)" etag="bb2Hzs90CaGElr9DJHJe" version="13.10.2" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1240" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-01-14T21:11:41.604Z" agent="5.0 (Windows)" etag="rTIvRdL0OsgZDldRXMfU" version="13.10.2" type="github" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Validación">
+    <mxGraphModel dx="1447" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,37 +139,143 @@
         <mxCell id="l4dRGZKkExwcml5ZWiq3-7" value="&lt;div&gt;Recopilación de información&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="167" y="155" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-30" target="dNxyNK7c78bLwvsdeMH5-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="280" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-32" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="290" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-28" target="dNxyNK7c78bLwvsdeMH5-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-28" target="dNxyNK7c78bLwvsdeMH5-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-28" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="410" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="dNxyNK7c78bLwvsdeMH5-34" target="dNxyNK7c78bLwvsdeMH5-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="510" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="520" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="l4dRGZKkExwcml5ZWiq3-37" value="&lt;div align=&quot;justify&quot;&gt;Actividad: Pedido producto humedad de suelo con validación&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l4dRGZKkExwcml5ZWiq3-43" value="Pedido de escena + DEMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="179.99999999999983" y="290" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Cv92-C9XGGS9K0Cah9HV" name="No Validación">
+    <mxGraphModel dx="1240" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="c0Weljfc5FvilOW0ih0D-0" />
+        <mxCell id="c0Weljfc5FvilOW0ih0D-1" parent="c0Weljfc5FvilOW0ih0D-0" />
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-0" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="c0Weljfc5FvilOW0ih0D-1">
+          <mxGeometry x="27" y="130" width="863" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-1" value="&lt;div&gt;Cliente&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-0">
+          <mxGeometry x="20" width="843" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-1" source="bwlmvlql8LoB_lx7ooxr-3" target="bwlmvlql8LoB_lx7ooxr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-3" value="Pedido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-1">
+          <mxGeometry x="40" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-4" value="&lt;div&gt;Recopilación de información&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-1">
+          <mxGeometry x="120" y="25" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-5" value="Envío de información" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-1">
+          <mxGeometry x="260" y="25" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-6" value="VENG" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-0">
+          <mxGeometry x="20" y="120" width="843" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-7" value="Pedido de escena + DEMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="132.99999999999983" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-6" source="bwlmvlql8LoB_lx7ooxr-11" target="bwlmvlql8LoB_lx7ooxr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.419;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-6" source="bwlmvlql8LoB_lx7ooxr-11" target="bwlmvlql8LoB_lx7ooxr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-11" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="263" y="13" width="87" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-12" value="Búsqueda producto SMAP" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="272.99999999999983" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-6" source="bwlmvlql8LoB_lx7ooxr-14" target="bwlmvlql8LoB_lx7ooxr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-14" value="Recopilación de escenas + información de suelo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="392.99999999999983" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-15" value="Envío a procesado de HS (humedad de suelo)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="512.9999999999998" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-6" source="bwlmvlql8LoB_lx7ooxr-17" target="bwlmvlql8LoB_lx7ooxr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-17" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="663" y="50" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-18" value="Validación global" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-6">
+          <mxGeometry x="742.9999999999998" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-6" target="bwlmvlql8LoB_lx7ooxr-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1023" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-24" value="CONAE escenas" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-0">
+          <mxGeometry x="20" y="240" width="843" height="120" as="geometry">
+            <mxRectangle x="20" y="240" width="580" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-25" value="Envío de escenas + DEMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-24">
+          <mxGeometry x="132.99999999999983" y="35" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-26" value="&lt;div&gt;CONAE humedad suelo&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-0">
+          <mxGeometry x="20" y="360" width="843" height="140" as="geometry">
+            <mxRectangle x="20" y="240" width="580" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-27" value="Cálculo de&amp;nbsp; mapa de Humedad de suelo" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-26">
+          <mxGeometry x="513" y="35" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-28" value="NSIDC" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-0">
+          <mxGeometry x="20" y="500" width="843" height="140" as="geometry">
+            <mxRectangle x="20" y="240" width="580" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-29" value="Entrega de producto SMAP" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="bwlmvlql8LoB_lx7ooxr-28">
+          <mxGeometry x="273" y="40" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" target="bwlmvlql8LoB_lx7ooxr-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323" y="95" as="sourcePoint" />
+            <mxPoint x="303" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="323" y="110" />
+              <mxPoint x="303" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-12" target="bwlmvlql8LoB_lx7ooxr-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-7" target="bwlmvlql8LoB_lx7ooxr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-25" target="bwlmvlql8LoB_lx7ooxr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-15" target="bwlmvlql8LoB_lx7ooxr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-27" target="bwlmvlql8LoB_lx7ooxr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="bwlmvlql8LoB_lx7ooxr-0" source="bwlmvlql8LoB_lx7ooxr-29" target="bwlmvlql8LoB_lx7ooxr-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="c0Weljfc5FvilOW0ih0D-1" source="bwlmvlql8LoB_lx7ooxr-39" target="bwlmvlql8LoB_lx7ooxr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-39" value="&lt;div&gt;Recopilación de información&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="c0Weljfc5FvilOW0ih0D-1">
+          <mxGeometry x="167" y="155" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-40" value="&lt;div align=&quot;justify&quot;&gt;Actividad: Pedido producto humedad de suelo sin validación&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="c0Weljfc5FvilOW0ih0D-1">
+          <mxGeometry x="330" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bwlmvlql8LoB_lx7ooxr-41" value="Pedido de escena + DEMs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="c0Weljfc5FvilOW0ih0D-1">
           <mxGeometry x="179.99999999999983" y="290" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
